@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oubihi Yassine</h1>
 <h3 align="center">A Computer Science Student at 1337 coding school</h3>
-<p style="text-align: center;">
+<p class="center-content">
     <a href="https://github.com/oakoudad/badge42">
         <img src="https://badge.mediaplus.ma/greenbinary/youbihi" alt="youbihi's 42 stats" />
     </a>
 </p>
+
 
 
 - 🔭 I’m currently working on **School Projects**
