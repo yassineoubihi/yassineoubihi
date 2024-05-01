@@ -13,6 +13,13 @@ My technical expertise extends to a deep understanding of Unix systems, which en
 Through my education at 1337 Coding School, I've engaged in numerous projects that required both individual initiative and teamwork, enhancing my problem-solving skills and my ability to adapt to diverse programming environments. My multilingual proficiency not only assists in my coding endeavors but also enriches my ability to communicate and collaborate with peers from different backgrounds, making me a versatile and resourceful member of any tech team.
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yassine-oubihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://twitter.com/yassineoubihi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/youbihi741/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/yassineoubihi](https://github.com/yassineoubihi)
 
 <h3 align="left">Connect with me:</h3>
