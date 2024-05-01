@@ -20,6 +20,9 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
 <a href="https://www.linkedin.com/in/yassine-oubihi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 <a href="https://twitter.com/yassineoubihi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://www.instagram.com/youbihi741/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="mailto:youbihi129@gmail.com" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1225953433601835162/1235291060234752163/Gmail_Logo_512px.png?ex=6633d5f3&is=66328473&hm=92118fbf2eb9d696608fa02755c38712161ad3b86b0c77755f6abe6e3ffaedda&" alt="anderson_mend53" height="30" width="40" /></a>
+
+https://cdn.discordapp.com/attachments/1225953433601835162/1235291060234752163/Gmail_Logo_512px.png?ex=6633d5f3&is=66328473&hm=92118fbf2eb9d696608fa02755c38712161ad3b86b0c77755f6abe6e3ffaedda&
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
