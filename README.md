@@ -69,7 +69,15 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
   <a href="https://flutter.dev/brand" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/xHzkfNT/icons8-flutter-48.png"
-      alt="postgresql"
+      alt="flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://nodejs.org/en/about/branding" target="_blank" rel="noreferrer">
+    <img
+      src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
+      alt="nodejs"
       width="40"
       height="40"
     />
