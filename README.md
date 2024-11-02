@@ -68,7 +68,7 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
   </a>
   <a href="https://flutter.dev/brand" target="_blank" rel="noreferrer">
     <img
-      src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"
+      src="https://i.ibb.co/xHzkfNT/icons8-flutter-48.png"
       alt="postgresql"
       width="60"
       height="60"
