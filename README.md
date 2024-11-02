@@ -8,6 +8,8 @@
 <p>
 I am Yassine Oubihi, a 20-year-old student at 1337 Coding School, well-versed in multiple languages including French, English, German, and Arabic. My academic and project experiences have allowed me to develop a robust skill set in programming with languages such as C, Python, and SQL. I am particularly proficient in managing and optimizing PostgreSQL databases, ensuring both efficiency and security in data handling.
 
+In addition to these skills, I have hands-on experience working with Flutter, Node.js, and Express.js. My work with Flutter has allowed me to create responsive and user-friendly mobile applications, while my experience with Node.js and Express.js has strengthened my ability to build scalable, back-end architectures that support efficient data management and seamless user interactions.
+
 My technical expertise extends to a deep understanding of Unix systems, which enables me to navigate and utilize the operating system effectively for various computing needs. Additionally, I am skilled in using version control systems like GitHub and Git, which are crucial for maintaining project integrity and facilitating collaborative projects.
 
 Through my education at 1337 Coding School, I've engaged in numerous projects that required both individual initiative and teamwork, enhancing my problem-solving skills and my ability to adapt to diverse programming environments. My multilingual proficiency not only assists in my coding endeavors but also enriches my ability to communicate and collaborate with peers from different backgrounds, making me a versatile and resourceful member of any tech team.
