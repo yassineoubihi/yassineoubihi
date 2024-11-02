@@ -70,8 +70,8 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
     <img
       src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"
       alt="postgresql"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
 </p>
