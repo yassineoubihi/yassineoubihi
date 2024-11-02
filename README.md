@@ -26,4 +26,52 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png" alt="postgresql" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
+      alt="python"
+      width="40"
+      height="40"
+    /> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://static-00.iconduck.com/assets.00/postgresql-icon-497x512-at6qw0yb.png"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://flutter.dev/brand" target="_blank" rel="noreferrer">
+    <img
+      src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
