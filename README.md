@@ -70,8 +70,8 @@ Through my education at 1337 Coding School, I've engaged in numerous projects th
     <img
       src="https://i.ibb.co/xHzkfNT/icons8-flutter-48.png"
       alt="postgresql"
-      width="60"
-      height="60"
+      width="40"
+      height="40"
     />
   </a>
 </p>
